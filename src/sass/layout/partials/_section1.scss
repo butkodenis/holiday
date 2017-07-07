@@ -1,0 +1,32 @@
+.hotel-filter{
+  background: #c3c3c3;
+}
+.hotel-search-form {
+  background: #ecc008;
+  height: 449px;
+  a {
+    text-decoration: none;
+  }
+}
+.box-1 {
+  margin: 0 auto;
+  img {
+    width: 100%;
+  }
+}
+
+.city-price{
+  font-size: 16px;
+  text-transform: uppercase;
+  background: #2ac871;
+  height: 88px;
+  padding: 30px 0;
+  span {
+    color: $white;
+    margin: 50px;
+  }
+}
+.section2 {
+  margin-top: 100px;
+  margin-bottom: 70px;
+}

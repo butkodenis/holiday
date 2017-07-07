@@ -1,0 +1,20 @@
+.popular-packages {
+
+  .box-lg {
+    .box-lg_img {
+      float: left;
+    }
+    .box-lg_content {
+      height: 225px;
+      max-width: 305px;
+      float: right;
+      border: 1px solid #CCC;
+      border-left: none;
+
+      .box-lg-description{
+        padding: 40px 30px 44px;
+      }
+    }
+  }
+  }
+
