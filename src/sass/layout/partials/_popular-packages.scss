@@ -1,6 +1,10 @@
 .popular-packages {
-
+  background-color: $white;
+  padding-bottom: 60px;
   .box-lg {
+      margin-bottom: 50px;
+      max-width: 555px;
+      overflow: hidden;
     .box-lg_img {
       float: left;
     }
@@ -13,6 +17,17 @@
 
       .box-lg-description{
         padding: 40px 30px 44px;
+
+      }
+      .box-sm_social{
+        i {
+          text-align: center;
+          height: 49px;
+          padding: 20px;
+        }
+        .travel-link {
+          width: 175px;
+        }
       }
     }
   }

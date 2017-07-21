@@ -1,6 +1,12 @@
 body {
   font-family: 'Open Sans', sans-serif;
-
+  background-color: $color-body;
+  overflow-x: hidden;
+}
+h1 {
+  font-size: 74px;
+  font-weight: 600;
+  text-align: center;
 }
 
 h2 {
@@ -20,4 +26,69 @@ hr {
 .title-section {
   margin: 100px 0 70px 0;
   overflow: hidden;
+}
+.box-sm_social {
+  border-top: 1px solid #c3c3c3;
+  overflow: hidden;
+  a {
+    display: inline-block;
+    text-decoration: none;
+    color: $black;
+    i {
+      color: $black;
+      padding: 20px;
+      width: 60px;
+      height: 60px;
+      font-size: 1.4em;
+
+    }
+
+  }:hover {
+     color: yellow;
+   }
+}
+.border-left {
+  border-left: 1px solid #c3c3c3;
+}
+.border-right {
+  border-right: 1px solid #c3c3c3;
+}
+.travel-link{
+  display: inline-block;
+  width: 130px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+
+}
+.baner-subtitle{
+  font-size: 34px;
+  text-align: center;
+}
+.baner-box-link{
+  display: block;
+  width: 172px;
+  margin: 0 auto;
+  background: rgba(252, 221, 68, 0.39) none repeat;
+  border: 1px solid #D2B731;
+  color: #FFF;
+  font-weight: 600;
+  //display: inline-block;
+  padding: 18px 40px;
+  margin-top: 30px;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+}
+.text-yellow {
+  color: #FCDD44;
+}
+.flexslider {
+  background:none;
+  border:1px solid black;
+  border-radius: 0px ;
+  box-shadow:none;
+  margin:0px;
 }

@@ -1,0 +1,67 @@
+nav {
+  background-color: $black;
+  height: 83px;
+}
+.active {
+  background: #FCDD44;
+  color: #000;
+}
+.site-name-container {
+  padding-top: 20px;
+  a {
+
+  }
+  :hover {
+    text-decoration: none;
+    color: yellow;
+  }
+}
+.site-name {
+  color: #FCDD44;
+  font-size: 27px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  :hover {
+    color: yellow;
+    text-decoration: none;
+  }
+}
+
+
+.mobile-menu-icon {
+  display: none;
+}
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+.nav {
+  overflow: hidden;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      float: left;
+
+      a {
+        display: block;
+        padding: 45px 34px 15px 34px;
+        color: $white;
+        text-decoration: none;
+        text-transform: uppercase;
+        transition: all 0.3s ease;
+        overflow: hidden;
+        box-sizing: border-box;
+      }
+      :hover {
+        background-color: yellow;
+        color: $black;
+        text-decoration: none;
+
+
+      }
+    }
+  }
+}
