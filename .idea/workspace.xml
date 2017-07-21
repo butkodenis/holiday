@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="497dabd0-5fe4-42f3-9556-a8c80713e35c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/flexfont/flexslider-icon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/flexfont/flexslider-icon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/flexfont/flexslider-icon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/holiday.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/flexfont/flexslider-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/layout/partials/_baner.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.min.css" afterPath="$PROJECT_DIR$/css/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/layout/_base.scss" afterPath="$PROJECT_DIR$/src/sass/layout/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/layout/partials/__partials.scss" afterPath="$PROJECT_DIR$/src/sass/layout/partials/__partials.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/layout/partials/_footer.scss" afterPath="$PROJECT_DIR$/src/sass/layout/partials/_footer.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/layout/partials/_menu.scss" afterPath="$PROJECT_DIR$/src/sass/layout/partials/_menu.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/layout/partials/_popular-packages.scss" afterPath="$PROJECT_DIR$/src/sass/layout/partials/_popular-packages.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/layout/partials/_section1.scss" afterPath="$PROJECT_DIR$/src/sass/layout/partials/_section1.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/typography/_typography.scss" afterPath="$PROJECT_DIR$/src/sass/typography/_typography.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/util/variables/_colors.scss" afterPath="$PROJECT_DIR$/src/sass/util/variables/_colors.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -134,17 +114,17 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_menu.scss" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_menu.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/sass/layout/partials/_menu.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+                <state relative-caret-position="221">
+                  <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_base.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_base.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/sass/layout/_base.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="51">
@@ -367,12 +347,12 @@
       <workItem from="1499257023986" duration="20832000" />
       <workItem from="1499932253847" duration="1239000" />
       <workItem from="1500290610262" duration="596000" />
-      <workItem from="1500364211581" duration="27021000" />
+      <workItem from="1500364211581" duration="27511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85672000" />
+    <option name="totallyTimeSpent" value="86162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3848" y="-8" width="1936" height="1056" extended-state="6" />
@@ -835,22 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/layout/partials/_baner.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sass/layout/partials/_menu.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sass/layout/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -884,6 +848,22 @@
             <element signature="n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/layout/partials/_baner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/layout/partials/_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
